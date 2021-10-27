@@ -1,0 +1,14 @@
+#include<iostream>
+#include<ctime>
+#include<cstdlib>
+using namespace std;
+
+int main()
+{
+	int m = 0;
+	while (m < 50)
+	{
+		cout << "Haha" << m + 1 << endl;
+		m++;
+	}
+}

@@ -1,0 +1,36 @@
+#include<iostream>
+/*
+#include<ctime>
+#include<cstdlib>
+using namespace std;
+
+int main()
+{
+	int m = 0;
+	do
+	{
+		cout << "Haha" << m + 1 << endl;
+		m++;
+	}while (m < 50);
+}
+*/
+
+#include<iostream>
+#include<ctime>
+#include<cstdlib>
+using namespace std;
+
+int main()
+{
+	int userChoice=1;
+	do
+	{
+		cout << "Welcome to my menu\n";
+		cout << "Please choose one of the following options\n";
+		cout << "1.coutinue\n";
+		cout << "2.quit\n\n";
+		cin >> userChoice;
+		cout << "**********************************************\n\n";
+
+	}while (userChoice==1);
+}
