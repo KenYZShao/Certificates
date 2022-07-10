@@ -1,0 +1,9 @@
+Linux 鳥哥 (CH. 5-7, 16, 17, 19) https://linux.vbird.org/linux_basic/centos7/ 
+DevOps Troubleshooting: Linux® Server Best Practices: https://learning.oreilly.com/library/view/devops-troubleshooting-linux-r/9780133035513/ Networking What happens when you type a URL into your browser? https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/ High Performance Browser Networking (CH. 1-4): https://hpbn.co/
+
+https://learning.oreilly.com/library/view/devops-troubleshooting-linux-r/9780133035513/ 
+
+Networking What happens when you type a URL into your browser? 
+https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
+
+High Performance Browser Networking (CH. 1-4): https://hpbn.co/
