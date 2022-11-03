@@ -1,0 +1,6 @@
+[319442.765] Loading XML file Assets//XML\GameInfo/CIV4PlayerOptionInfos.xml
+[319442.937] Load XML file Assets//XML\GameInfo/CIV4PlayerOptionInfos.xml SUCCEEDED
+[319442.937] SetGlobalClassInfo (Civ4PlayerOptionInfos/PlayerOptionInfos/PlayerOptionInfo)
+[319442.937] Loading XML file Assets//XML\GameInfo/CIV4GraphicOptionInfos.xml
+[319442.984] Load XML file Assets//XML\GameInfo/CIV4GraphicOptionInfos.xml SUCCEEDED
+[319442.984] SetGlobalClassInfo (Civ4GraphicOptionInfos/GraphicOptionInfos/GraphicOptionInfo)
